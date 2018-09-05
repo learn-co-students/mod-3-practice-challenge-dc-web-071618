@@ -7,12 +7,28 @@
       "img_url": "http://books.google.com/books/content?id=CEMZ1OoPDIAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         },
         {
           "id": 8,
           "username": "goodwin"
+        },
+        {
+          "id": 9,
+          "username": "nikolaus"
         }
       ]
     },
@@ -23,16 +39,16 @@
       "img_url": "http://books.google.com/books/content?id=pkwCDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 1,
+          "username": "pouros"
         },
         {
-          "id": 4,
-          "username": "batz"
+          "id": 8,
+          "username": "goodwin"
         },
         {
-          "id": 6,
-          "username": "steuber"
+          "id": 9,
+          "username": "nikolaus"
         }
       ]
     },
@@ -42,6 +58,10 @@
       "description": "Living life off the radar can be tough - as the Urban Outlaws are about to find out . . . Because no one's anonymous. No one's untraceable. No one's safe. The first in a sensational new series of high-octane, high-tech thrillers",
       "img_url": "http://books.google.com/books/content?id=xTSmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
+        {
+          "id": 1,
+          "username": "pouros"
+        },
         {
           "id": 8,
           "username": "goodwin"
@@ -59,6 +79,26 @@
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
           "id": 10,
           "username": "macejkovic"
         },
@@ -74,6 +114,10 @@
       "description": "FIGHTING TO SURVIVE Nia Sharpe never expected to get caught in the crosshairs of a drug war. But with the return of her criminal brother, her life is suddenly on the line. Thankfully, her handsome boss, Aiden McBride, is there when she needs him most. Nia knows Aiden is still reeling from his past, so when the war vet steps in to keep her safe, Nia is touched by his heroic actions. Now staying ahead of the bad guys is their best chance of surviving. But watching Aiden fight for her—for them—gives her hope that they could share more than just this deadly situation. Perhaps they could share a future… Echo Mountain: Saving lives and finding love in the mountains of Washington State",
       "img_url": "http://books.google.com/books/content?id=bNYgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
+        {
+          "id": 1,
+          "username": "pouros"
+        },
         {
           "id": 10,
           "username": "macejkovic"
@@ -95,6 +139,14 @@
       "img_url": "http://books.google.com/books/content?id=TmocdXScYFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
           "id": 7,
           "username": "steuber"
         },
@@ -110,6 +162,10 @@
       "description": "Includes excerpt of Heaven's Keep by William Kent Krueger (p. [439-447]).",
       "img_url": "http://books.google.com/books/content?id=nSEVSnb8wpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
+        {
+          "id": 1,
+          "username": "pouros"
+        },
         {
           "id": 3,
           "username": "marvin"
@@ -127,16 +183,20 @@
       "img_url": "http://books.google.com/books/content?id=dZs0DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
-          "username": "nikolaus"
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 2,
+          "username": "auer"
         },
         {
           "id": 3,
           "username": "marvin"
         },
         {
-          "id": 2,
-          "username": "auer"
+          "id": 4,
+          "username": "batz"
         }
       ]
     },
@@ -145,7 +205,19 @@
       "title": "Rocky Mountain Pursuit",
       "description": "IDENTITY: CONFIDENTIAL Everyone believes agent Jase Bradford is dead--everyone but Reyna Peterson. Only he can protect her now that someone wants the information her CIA husband died to secure. As the one member of their spy team not killed, Jase must remain in the shadows. Yet when Reyna leads the enemy right to his mountain refuge and blows his cover, Jase risks his life for hers. As his best friend's beautiful widow scales the walls around his heart, whether out of loyalty or love, he makes it his duty to secure her safety. But when their pursuers trap them in the snowy Colorado mountains, will it become his final mission?",
       "img_url": "http://books.google.com/books/content?id=hmbACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "books": [
+      "users": [
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
         {
           "id": 8,
           "username": "goodwin"
@@ -165,7 +237,31 @@
       "title": "The Lottery Winner",
       "description": "Five short tales, including 'Plumbing for Willy' and 'Death on the Cape,' follow the adventures of a former cleaning woman and her occasionally befuddled mate",
       "img_url": "http://books.google.com/books/content?id=dK5Gx6vbV2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "books": [
+      "users": [
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
         {
           "id": 8,
           "username": "goodwin"
